@@ -1,6 +1,6 @@
 ## Tabela no Sqlite3! 🖥️
 
-# Como fazer?
+# 🛠️ Como fazer?
 Entre no Python e depois vá para o IDLE SHELL, lá você vai utilizar todos os códigos disponibilizados por mim!
 
 Copie e cole tudo certinho, e claro, se quiser, faça alterações para aprender e criar sua própria tabela
